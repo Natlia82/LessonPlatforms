@@ -1,0 +1,19 @@
+{
+  "name": "@natlia82/lessonplatforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natlia82/LessonPlatforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natlia82/LessonPlatforms/issues"
+  },
+  "homepage": "https://github.com/Natlia82/LessonPlatforms#readme"
+}
